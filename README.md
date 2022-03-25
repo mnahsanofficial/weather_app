@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+I made it for passing my lab exam evaluation.I followed code from https://github.com/Kilo-Loco/30DaysOfFlutter/tree/main/day11_weather_app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
